@@ -63,14 +63,14 @@ The main objectives of this repository are:
 
 # 📌 Notes
 
-* Numerical methods generally provide **approximate solutions**.
-* The accuracy of iterative methods depends on factors such as:
+* Numerical methods generally provide **approximate solutions**. The accuracy of iterative methods depends on factors such as:
 
   * Initial guesses
   * Number of iterations
   * Error tolerance
   * Convergence conditions
-* Different methods may perform differently depending on the mathematical problem.
+
+Different methods may perform differently depending on the mathematical problem.
 
 ---
 
